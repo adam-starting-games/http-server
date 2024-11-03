@@ -1,0 +1,7 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam Simon",
+  "license": "ISC"
+}
